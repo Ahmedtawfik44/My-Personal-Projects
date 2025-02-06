@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1734390619 source:c:\users\ahmed\desktop\quran playlist manageee\audio player\main.cpp
+	<iostream>
+	"audio.h"
+	"playlist.h"
+	"surah.h"
+
+1733254072 source:c:\users\ahmed\desktop\quran playlist manageee\audio player\ddl.cpp
+	<iostream>
+
+1734285670 c:\users\ahmed\desktop\quran playlist manageee\audio player\include\audio.h
+	<windows.h>
+	<string>
+	<mmsystem.h>
+	<iostream>
+	<string>
+
+1734285635 source:c:\users\ahmed\desktop\quran playlist manageee\audio player\src\audio.cpp
+	"audio.h"
+
+1734770277 c:\users\ahmed\desktop\quran playlist manageee\audio player\dll.h
+	<iostream>
+	"audio.h"
+	"playlist.h"
+	<iomanip>
+	<fstream>
+
+1734384385 source:c:\users\ahmed\desktop\quran playlist manageee\audio player\src\playlist.cpp
+	"playlist.h"
+
+1734384385 c:\users\ahmed\desktop\quran playlist manageee\audio player\include\playlist.h
+	<iostream>
+	"../DLL.h"
+	"audio.h"
+	<iomanip>
+	<string>
+	<fstream>
+
+1734768294 c:\users\ahmed\desktop\quran playlist manageee\audio player\include\surah.h
+	<iostream>
+	<string>
+	"audio.h"
+	"playlist.h"
+	<thread>
+	<atomic>
+
+1734768982 source:c:\users\ahmed\desktop\quran playlist manageee\audio player\src\surah.cpp
+	"surah.h"
+
