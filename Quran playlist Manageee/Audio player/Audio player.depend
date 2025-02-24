@@ -47,3 +47,48 @@
 1734768982 source:c:\users\ahmed\desktop\quran playlist manageee\audio player\src\surah.cpp
 	"surah.h"
 
+1740423540 source:c:\users\ahmed\desktop\github\my-personal-projects\quran playlist manageee\audio player\main.cpp
+	<iostream>
+	"audio.h"
+	"playlist.h"
+	"surah.h"
+
+1740423540 c:\users\ahmed\desktop\github\my-personal-projects\quran playlist manageee\audio player\include\audio.h
+	<windows.h>
+	<string>
+	<mmsystem.h>
+	<iostream>
+	<string>
+
+1740423540 c:\users\ahmed\desktop\github\my-personal-projects\quran playlist manageee\audio player\include\playlist.h
+	<iostream>
+	"../DLL.h"
+	"audio.h"
+	<iomanip>
+	<string>
+	<fstream>
+
+1740423540 c:\users\ahmed\desktop\github\my-personal-projects\quran playlist manageee\audio player\dll.h
+	<iostream>
+	"audio.h"
+	"playlist.h"
+	<iomanip>
+	<fstream>
+
+1740423540 c:\users\ahmed\desktop\github\my-personal-projects\quran playlist manageee\audio player\include\surah.h
+	<iostream>
+	<string>
+	"audio.h"
+	"playlist.h"
+	<thread>
+	<atomic>
+
+1740423540 source:c:\users\ahmed\desktop\github\my-personal-projects\quran playlist manageee\audio player\src\audio.cpp
+	"audio.h"
+
+1740423540 source:c:\users\ahmed\desktop\github\my-personal-projects\quran playlist manageee\audio player\src\playlist.cpp
+	"playlist.h"
+
+1740423540 source:c:\users\ahmed\desktop\github\my-personal-projects\quran playlist manageee\audio player\src\surah.cpp
+	"surah.h"
+

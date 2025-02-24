@@ -16,7 +16,7 @@ int n;
 
 s.show_consol();
 
-cout<<"                           Enter Your Choise : ";
+cout<<"Enter Your Choise : ";
 cin>>n;
 cout<<endl;
 

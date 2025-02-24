@@ -255,26 +255,26 @@ void surah::play_specific() {
 
 
     cout<<endl;
-    cout<<"                          =========================================================================                                 "<<endl;
-    cout<<"                                                  Quran Playlist Manager Menue                                                        "<<endl;
-    cout<<"                          -------------------------------------------------------------------------                                    "<<endl;
-    cout<<"                           1-Add a new Playlist                                                                                       "<<endl;
-    cout<<"                           2-Add Surah to existing Playlist                                                                         "<<endl;
-    cout<<"                           3-Remove Surah from an existing  Playlist                                                                "<<endl;
-    cout<<"                           4-Update the order of exsisting playlist                                                                 "<<endl;
-    cout<<"                           5-Display All Current Playlist                                                                             "<<endl;
-    cout<<"                           6-Display All Playlist Surah                                                                                  "<<endl;
-    cout<<"                           7-Display Surah in a specific Playlist                                                                         "<<endl;
-    cout<<"                           8-Play Surah from specific Playlist                                                                                "<<endl;
-    cout<<"                             Use left arrow (<-) to play the previous surah                                                               "<<endl;
-    cout<<"                             Use right arrow (->) to play the next surah                                                               "<<endl;
-    cout<<"                             Use left arrow (=) to pause the current surah                                                               "<<endl;
-    cout<<"                             press q to exit current playlist & return Back to Menue                                                        "<<endl;
-    cout<<"                           9-Save an existing Playlist to a file                                                                              "<<endl;
-    cout<<"                           10-Load an existing Playlist from afile                                                                               "<<endl;
-    cout<<"                           11-Remove an existing Playlist                                                                                      "<<endl;
-    cout<<"                           12-Exit                                                                                                    "<<endl;
-    cout<<"                          =========================================================================                                   "<<endl;
+    cout<<" =========================================================================                                 "<<endl;
+    cout<<"   Quran Playlist Manager Menue                                                        "<<endl;
+    cout<<" -------------------------------------------------------------------------                                    "<<endl;
+    cout<<"    1-Add a new Playlist                                                                                       "<<endl;
+    cout<<"    2-Add Surah to existing Playlist                                                                         "<<endl;
+    cout<<"    3-Remove Surah from an existing  Playlist                                                                "<<endl;
+    cout<<"    4-Update the order of exsisting playlist                                                                 "<<endl;
+    cout<<"    5-Display All Current Playlist                                                                             "<<endl;
+    cout<<"    6-Display All Playlist Surah                                                                                  "<<endl;
+    cout<<"    7-Display Surah in a specific Playlist                                                                         "<<endl;
+    cout<<"    8-Play Surah from specific Playlist                                                                                "<<endl;
+    cout<<"    Use left arrow (<-) to play the previous surah                                                               "<<endl;
+    cout<<"       . Use right arrow (->) to play the next surah                                                               "<<endl;
+    cout<<"       . Use left arrow (=) to pause the current surah                                                               "<<endl;
+    cout<<"       . press q to exit current playlist & return Back to Menue                                                        "<<endl;
+    cout<<"    9-Save an existing Playlist to a file                                                                              "<<endl;
+    cout<<"    10-Load an existing Playlist from afile                                                                               "<<endl;
+    cout<<"    11-Remove an existing Playlist                                                                                      "<<endl;
+    cout<<"    12-Exit                                                                                                    "<<endl;
+    cout<<" =========================================================================                                   "<<endl;
 
 
  }
