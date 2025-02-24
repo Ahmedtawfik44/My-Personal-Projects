@@ -1,30 +1,18 @@
-# 🚀 مشاريعي الشخصية
+ ⬤ ☝️ My Personal Projects  
 
-مرحبًا بك في مستودع مشاريعي الشخصية! هنا ستجد مجموعة من المشاريع التي عملت عليها باستخدام **HTML, CSS, C++, JavaScript** وغيرها.
+Welcome to my personal projects repository! Here, you'll find various projects I've worked on using **C++**.  
 
-## 🛠 قائمة المشاريع
+● 🛠 Projects List  
 
-### 1️⃣ **ContactBook** 📞  
-🔹 تطبيق بسيط لإدارة جهات الاتصال باستخدام **C++** و **Double Linked List**.  
-🔹 الميزات: إضافة، حذف، تعديل، بحث، مشاركة جهات الاتصال.  
-🔹 [المشروع على GitHub](رابط_المشروع)
-
----
-
-### 2️⃣ **Login Page Animation** 🎨  
-🔹 صفحة تسجيل دخول احترافية بتصميم متجاوب مع **CSS animations**.  
-🔹 [المشروع على GitHub](رابط_المشروع)
+◉ 🗂️ **ContactBook**  
+📇 A contact management application using **C++** and **Dynamic Array**.  
+✨ Features: Add, delete, edit, search, and share contacts...  
+🔗 [Project Link](project_link)  
 
 ---
-
-### 3️⃣ **Playlist Manager** 🎵  
-🔹 تطبيق لإدارة قائمة تشغيل باستخدام **Double Linked List**.  
-🔹 يدعم إضافة، حذف، وتعديل القوائم بسهولة.  
-🔹 [المشروع على GitHub](رابط_المشروع)
+◉ 🎵 **Playlist Manager**  
+🎶 A playlist management app built with **Double Linked List**.  
+🔄 Supports adding, deleting, modifying playlists and play sound ...  
+🔗 [Project Link](project_link)  
 
 ---
-
-## 🔧 كيفية تشغيل المشاريع
-1. قم بتنزيل المشروع المطلوب:  
-   ```bash
-   git clone رابط_المشروع
